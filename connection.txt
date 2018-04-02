@@ -1,0 +1,7 @@
+
+
+python3 temperature_aws.py -e a2nagaqclas1xo.iot.eu-west-1.amazonaws.com -r /home/pi/certs/rootCA.pem -c /home/pi/certs/86ba2390bd-certificate.pem.crt -k /home/pi/certs/86ba2390bd-private.pem.key
+
+
+python temperature_aws.py -e a2nagaqclas1xo.iot.eu-west-1.amazonaws.com -r /home/pi/certs/rootCA.pem -c /home/pi/certs/86ba2390bd-certificate.pem.crt -k /home/pi/certs/86ba2390bd-private.pem.key
+
